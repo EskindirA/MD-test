@@ -10,9 +10,15 @@ Text with no style
 ~~Deprecated~~
 ###### Heading 6
 Default search engine [Google](http://www.google.com)
--Category 1
--Category 2
-*Item 1
-*Item 2
+
+- Category 1
+- Category 2
+
+* Item 1
+* Item 2
+
+1. Enquiry 1
+2. Enquiry 2
+
 ###### Image
 ![Traditional housing](./japanese.jpg)
