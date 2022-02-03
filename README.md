@@ -10,3 +10,6 @@ Text with no style
 ~~Deprecated~~
 ###### Heading 6
 Default search engine [Google](http://www.google.com)
+
+###### Image
+![Traditional housing](./japanese.jpg)
