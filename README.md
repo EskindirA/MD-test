@@ -1,5 +1,5 @@
 # Heading 1
-**Sub Text 1**
+Bold **Sub Text 1**
 ## Heading 2
 ### Heading 3
 #### Heading 4
