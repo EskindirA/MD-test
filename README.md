@@ -9,4 +9,4 @@ Text with no style
 ##### Heading 5
 ~~Deprecated~~
 ###### Heading 6
-default search engine [(http://www.google.com)]
+[default search engine] (http://www.google.com)
